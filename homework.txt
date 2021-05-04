@@ -1,0 +1,26 @@
+Homework to itstep 
+
+subnet mask to 99 host
+
+1) subnet mask: 255.255.255.128 
+(11111111.11111111.11111111.10000000) /25
+
+2) selection ip address for the network: 48.148.48.47
+(00110000.10010100.00110000.00101111)
+
+3) search network address and subnet address:
+
+Network address: 48.148.48.0
+(00110000.10010100.00110000.00000000)
+
+Broadcast address : 48.148.48.127
+(00110000.10010100.00110000.01111111)
+
+4) search host address:
+ip address first host: 48.148.48.1
+(00110000.10010100.00110000.00000001)
+
+ip address last host: 48.148.48.126
+(00110000.10010100.00110000.01111110)
+
+Done
